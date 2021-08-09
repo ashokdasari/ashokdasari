@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashokdasari
-- 👀 I’m interested in `.net Core`, `Angular`, `C#`, `React`, `AWS`, `MS Azure`,  `DevOps (Jenkins, Ansible, Chef)`, `MS BI (T-SQL, SSRS, SSIS and SSAS)`,  `No SQL (Mongo, Cosmos, Dynamo)` `Serverless` `spark`, `Microservices architecture`, `Cloud native applications`
-- 🌱 I’m currently learning `Blazor (Server and WASM)`, `Python` and `Django`.
+- 👀 I’m interested in `.net Core`, `Angular`, `C#`, `React`, `AWS`, `MS Azure`,  `DevOps (Jenkins, Ansible, Chef)`, `MS BI (T-SQL, SSRS, SSIS and SSAS)`,  `No SQL (Mongo, Cosmos, Dynamo)` `Serverless` `spark`, `Microservices architecture`, `Cloud native applications`, `Python` and `Django`.
+- 🌱 I’m currently learning `Blazor (Server and WASM)`
 - 💞️ I’m looking to collaborate on `.net Core`, `Angular` and `React`
 - 📫 How to reach me ...
 
