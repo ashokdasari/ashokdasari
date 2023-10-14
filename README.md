@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashokdasari
-- 👀 I’m interested in `.net Core`, `C#`, `Angular`, `React`, `AWS`, `MS Azure`, `MS BI (T-SQL, SSRS, SSIS and SSAS)`,  `No SQL (Mongo, Cosmos, Dynamo)`,`Containerization (Docker)`, `Microservices architecture`, `Cloud native applications`, `Python` and `Django`,`Serverless`, `spark`, `DevOps (Jenkins, Ansible, Chef)`, `Data science` and `AI`.
+- 👀 My experience and interests includes but not limited to`.net Core`, `C#`, `Angular`, `React`, `Express.js`, `AWS`, `Microsoft Azure`, `No SQL (Mongo, CosmosDB, Dynamo)`,`Containerization (Docker)`, `Microservices architecture`, `Cloud native applications`, `Kubernetes`, `NodeJs`, `Python` and `Django`,`Serverless`, `spark`.
 - 🌱 I’m currently learning `Blazor (Server and WASM)`, `Data Science` and `AI`.
 - 💞️ I’m looking to collaborate on `.net Core`, `Angular` and `React`
-- 📫 How to reach me ...
+- 📫 You can reach me out at my email `ashokd9@gmail.com`...
 
 <!---
 ashokdasari/ashokdasari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
